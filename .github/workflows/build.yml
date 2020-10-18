@@ -1,0 +1,29 @@
+on:
+  push:
+  schedule:
+    - cron: '35 21 * * *'
+jobs:
+  build-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Ruby 2.6
+        uses: actions/setup-ruby@v1
+        with:
+          ruby-version: 2.6.x
+      - name: Install dependencies
+        run: gem install goodreads
+      - name: Checkout repo
+        uses: actions/checkout@v2
+      - name: Update README content
+        run: ruby scripts/content_builder.rb
+        env:
+          GOODREADS_API_KEY: ${{ secrets.GOODREADS_API_KEY }}
+          GOODREADS_SECRET_KEY: ${{ secrets.GOODREADS_SECRET_KEY }}
+          GOODREADS_USER_ID: ${{ secrets.GOODREADS_USER_ID }}
+      - name: Commit and push
+        run: |-
+          git config --global user.name "The Bot"
+          git config --global user.email "the-bot@example.com"
+          git add .
+          git commit -am "Update content" || exit 0
+          git push
