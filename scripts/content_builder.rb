@@ -26,5 +26,5 @@ File.open('README.md', 'w') do |f|
   f.puts "\n"
   f.puts '![.github/workflows/build.yml](https://github.com/kiriakosv/kiriakosv/workflows/.github/workflows/build.yml/badge.svg)'
   f.puts "\n"
-  f.puts "Generated at `#{Time.now.utc.localtime('+03:00').strftime('%c %z')}`"
+  f.puts "Generated at `#{Time.now.utc.localtime('+02:00').strftime('%c %z')}`"
 end

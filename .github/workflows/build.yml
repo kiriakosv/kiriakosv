@@ -1,7 +1,7 @@
 on:
   push:
   schedule:
-    - cron: '35 21 * * *'
+    - cron: '35 22 * * *'
 jobs:
   build-readme:
     runs-on: ubuntu-latest
