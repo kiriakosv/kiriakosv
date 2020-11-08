@@ -9,14 +9,14 @@ I'm Kiriakos Velissariou, software engineer @[Skroutz](https://www.skroutz.gr) d
 📫 You can drop me a word at [me@kiriakosv.xyz](mailto:me@kiriakosv.xyz).
 
 I love reading 📚. Some of my latest readings from Goodreads are:
-* [Eternal Sky, Clouds Passing By](https://www.goodreads.com/book/show/50539046-eternal-sky-clouds-passing-by)
 * [Tinker, Tailor, Soldier, Spy](https://www.goodreads.com/book/show/10073506-tinker-tailor-soldier-spy)
 * [Total Control: High Performance Street Riding Techniques](https://www.goodreads.com/book/show/24055503-total-control)
 * [Antifragile: Things that Gain from Disorder](https://www.goodreads.com/book/show/19723223-antifragile)
 * [Deep Work: Rules for Focused Success in a Distracted World](https://www.goodreads.com/book/show/25744928-deep-work)
+* [Η σιωπηλή ασθενής](https://www.goodreads.com/book/show/44790981)
 
 ---
 
 ![.github/workflows/build.yml](https://github.com/kiriakosv/kiriakosv/workflows/.github/workflows/build.yml/badge.svg)
 
-Generated at `Sun Nov  8 00:37:48 2020 +0200`
+Generated at `Mon Nov  9 00:37:46 2020 +0200`
