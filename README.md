@@ -9,14 +9,14 @@ I'm Kiriakos Velissariou, software engineer @[Skroutz](https://www.skroutz.gr) d
 📫 You can drop me a word at [me@kiriakosv.xyz](mailto:me@kiriakosv.xyz).
 
 I love reading 📚. Some of my latest readings from Goodreads are:
+* [So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love](https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you)
 * [The Master and Margarita](https://www.goodreads.com/book/show/29777060-the-master-and-margarita)
 * [Tinker, Tailor, Soldier, Spy](https://www.goodreads.com/book/show/10073506-tinker-tailor-soldier-spy)
 * [Total Control: High Performance Street Riding Techniques](https://www.goodreads.com/book/show/24055503-total-control)
 * [Antifragile: Things that Gain from Disorder](https://www.goodreads.com/book/show/19723223-antifragile)
-* [Deep Work: Rules for Focused Success in a Distracted World](https://www.goodreads.com/book/show/25744928-deep-work)
 
 ---
 
 ![.github/workflows/build.yml](https://github.com/kiriakosv/kiriakosv/workflows/.github/workflows/build.yml/badge.svg)
 
-Generated at `Tue Dec  1 00:41:08 2020 +0200`
+Generated at `Wed Dec  2 00:41:25 2020 +0200`
