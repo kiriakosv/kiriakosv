@@ -10,13 +10,13 @@ I'm Kiriakos Velissariou, software engineer @[Skroutz](https://www.skroutz.gr) d
 
 I love reading 📚. Some of my latest readings from Goodreads are:
 * [So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love](https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you)
+* [Το χέρι του Νεκρού (Drifter #1)](https://www.goodreads.com/book/show/53412027)
 * [The Master and Margarita](https://www.goodreads.com/book/show/29777060-the-master-and-margarita)
 * [Tinker, Tailor, Soldier, Spy](https://www.goodreads.com/book/show/10073506-tinker-tailor-soldier-spy)
 * [Total Control: High Performance Street Riding Techniques](https://www.goodreads.com/book/show/24055503-total-control)
-* [Antifragile: Things that Gain from Disorder](https://www.goodreads.com/book/show/19723223-antifragile)
 
 ---
 
 ![.github/workflows/build.yml](https://github.com/kiriakosv/kiriakosv/workflows/.github/workflows/build.yml/badge.svg)
 
-Generated at `Mon Dec 14 00:50:05 2020 +0200`
+Generated at `Tue Dec 15 00:53:28 2020 +0200`
