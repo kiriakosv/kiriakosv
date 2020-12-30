@@ -19,4 +19,4 @@ I love reading 📚. Some of my latest readings from Goodreads are:
 
 ![.github/workflows/build.yml](https://github.com/kiriakosv/kiriakosv/workflows/.github/workflows/build.yml/badge.svg)
 
-Generated at `Wed Dec 30 01:01:47 2020 +0200`
+Generated at `Thu Dec 31 01:02:35 2020 +0200`
