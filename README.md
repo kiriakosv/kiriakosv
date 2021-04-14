@@ -13,10 +13,10 @@ I love reading 📚. Some of my latest readings from Goodreads are:
 * [So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love](https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you)
 * [Το χέρι του Νεκρού (Drifter #1)](https://www.goodreads.com/book/show/53412027)
 * [The Master and Margarita](https://www.goodreads.com/book/show/29777060-the-master-and-margarita)
-* [Tinker, Tailor, Soldier, Spy (George Smiley, #5)](https://www.goodreads.com/book/show/10073506-tinker-tailor-soldier-spy)
+* [Tinker, Tailor, Soldier, Spy (George Smiley, #5; Karla Trilogy #1)](https://www.goodreads.com/book/show/10073506-tinker-tailor-soldier-spy)
 
 ---
 
 ![.github/workflows/build.yml](https://github.com/kiriakosv/kiriakosv/workflows/.github/workflows/build.yml/badge.svg)
 
-Generated at `Wed Apr 14 00:52:13 2021 +0200`
+Generated at `Thu Apr 15 00:50:57 2021 +0200`
