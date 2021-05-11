@@ -9,14 +9,14 @@ I'm Kiriakos Velissariou, software engineer @[Skroutz](https://www.skroutz.gr) d
 📫 You can drop me a word at [me@kiriakosv.xyz](mailto:me@kiriakosv.xyz).
 
 I love reading 📚. Some of my latest readings from Goodreads are:
+* [The Mysterious Affair at Styles](https://www.goodreads.com/book/show/33844617-the-mysterious-affair-at-styles)
 * [The Spy and the Traitor: The Greatest Espionage Story of the Cold War](https://www.goodreads.com/book/show/39321912-the-spy-and-the-traitor)
 * [So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love](https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you)
 * [Το χέρι του Νεκρού (Drifter #1)](https://www.goodreads.com/book/show/53412027)
 * [The Master and Margarita](https://www.goodreads.com/book/show/29777060-the-master-and-margarita)
-* [Tinker, Tailor, Soldier, Spy (George Smiley, #5; Karla Trilogy #1)](https://www.goodreads.com/book/show/10073506-tinker-tailor-soldier-spy)
 
 ---
 
 ![.github/workflows/build.yml](https://github.com/kiriakosv/kiriakosv/workflows/.github/workflows/build.yml/badge.svg)
 
-Generated at `Tue May 11 00:52:58 2021 +0200`
+Generated at `Wed May 12 00:53:07 2021 +0200`
