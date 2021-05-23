@@ -10,13 +10,13 @@ I'm Kiriakos Velissariou, software engineer @[Skroutz](https://www.skroutz.gr) d
 
 I love reading 📚. Some of my latest readings from Goodreads are:
 * [The Mysterious Affair at Styles](https://www.goodreads.com/book/show/33844617-the-mysterious-affair-at-styles)
+* [Optionality: How to Survive and Thrive in a Volatile World](https://www.goodreads.com/book/show/55928854-optionality)
 * [The Spy and the Traitor: The Greatest Espionage Story of the Cold War](https://www.goodreads.com/book/show/39321912-the-spy-and-the-traitor)
 * [So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love](https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you)
 * [Το χέρι του Νεκρού (Drifter #1)](https://www.goodreads.com/book/show/53412027)
-* [The Master and Margarita](https://www.goodreads.com/book/show/29777060-the-master-and-margarita)
 
 ---
 
 ![.github/workflows/build.yml](https://github.com/kiriakosv/kiriakosv/workflows/.github/workflows/build.yml/badge.svg)
 
-Generated at `Sun May 23 00:51:31 2021 +0200`
+Generated at `Mon May 24 00:51:18 2021 +0200`
