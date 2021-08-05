@@ -9,14 +9,14 @@ I'm Kiriakos Velissariou, software engineer @[Skroutz](https://www.skroutz.gr) d
 📫 You can drop me a word at [me@kiriakosv.xyz](mailto:me@kiriakosv.xyz).
 
 I love reading 📚. Some of my latest readings from Goodreads are:
+* [Ακοή](https://www.goodreads.com/book/show/54338846)
 * [The Great Mental Models: General Thinking Concepts](https://www.goodreads.com/book/show/58103132-the-great-mental-models)
 * [The Mysterious Affair at Styles](https://www.goodreads.com/book/show/33844617-the-mysterious-affair-at-styles)
 * [1984](https://www.goodreads.com/book/show/40961427-1984)
 * [Optionality: How to Survive and Thrive in a Volatile World](https://www.goodreads.com/book/show/55928854-optionality)
-* [The Spy and the Traitor: The Greatest Espionage Story of the Cold War](https://www.goodreads.com/book/show/39321912-the-spy-and-the-traitor)
 
 ---
 
 ![.github/workflows/build.yml](https://github.com/kiriakosv/kiriakosv/workflows/.github/workflows/build.yml/badge.svg)
 
-Generated at `Thu Aug  5 00:41:17 2021 +0200`
+Generated at `Fri Aug  6 00:42:05 2021 +0200`
