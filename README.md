@@ -11,12 +11,12 @@ I'm Kiriakos Velissariou, software engineer @[Skroutz](https://www.skroutz.gr) d
 I love reading 📚. Some of my latest readings from Goodreads are:
 * [Ακοή](https://www.goodreads.com/book/show/54338846)
 * [The Great Mental Models: General Thinking Concepts](https://www.goodreads.com/book/show/58103132-the-great-mental-models)
+* [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/book/show/32708206-algorithms-to-live-by)
 * [The Mysterious Affair at Styles](https://www.goodreads.com/book/show/33844617-the-mysterious-affair-at-styles)
 * [1984](https://www.goodreads.com/book/show/40961427-1984)
-* [Optionality: How to Survive and Thrive in a Volatile World](https://www.goodreads.com/book/show/55928854-optionality)
 
 ---
 
 ![.github/workflows/build.yml](https://github.com/kiriakosv/kiriakosv/workflows/.github/workflows/build.yml/badge.svg)
 
-Generated at `Mon Sep 13 00:40:59 2021 +0200`
+Generated at `Tue Sep 14 00:41:48 2021 +0200`
