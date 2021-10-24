@@ -9,14 +9,14 @@ I'm Kiriakos Velissariou, software engineer @[Skroutz](https://www.skroutz.gr) d
 📫 You can drop me a word at [me@kiriakosv.xyz](mailto:me@kiriakosv.xyz).
 
 I love reading 📚. Some of my latest readings from Goodreads are:
+* [Η συχνότητα του φόνου (Ακοή , #2)](https://www.goodreads.com/book/show/56576642)
 * [Project Hail Mary](https://www.goodreads.com/book/show/56049167-project-hail-mary)
 * [Ακοή](https://www.goodreads.com/book/show/54338846)
 * [The Great Mental Models: General Thinking Concepts](https://www.goodreads.com/book/show/58103132-the-great-mental-models)
 * [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/book/show/32708206-algorithms-to-live-by)
-* [The Mysterious Affair at Styles](https://www.goodreads.com/book/show/33844617-the-mysterious-affair-at-styles)
 
 ---
 
 ![.github/workflows/build.yml](https://github.com/kiriakosv/kiriakosv/workflows/.github/workflows/build.yml/badge.svg)
 
-Generated at `Sun Oct 24 00:41:42 2021 +0200`
+Generated at `Mon Oct 25 00:41:46 2021 +0200`
