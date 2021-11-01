@@ -10,13 +10,13 @@ I'm Kiriakos Velissariou, software engineer @[Skroutz](https://www.skroutz.gr) d
 
 I love reading 📚. Some of my latest readings from Goodreads are:
 * [Η συχνότητα του φόνου (Ακοή , #2)](https://www.goodreads.com/book/show/56576642)
+* [Where Good Ideas Come from: The Natural History of Innovation](https://www.goodreads.com/book/show/8034188-where-good-ideas-come-from)
 * [Project Hail Mary](https://www.goodreads.com/book/show/56049167-project-hail-mary)
 * [Ακοή](https://www.goodreads.com/book/show/54338846)
 * [The Great Mental Models: General Thinking Concepts](https://www.goodreads.com/book/show/58103132-the-great-mental-models)
-* [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/book/show/32708206-algorithms-to-live-by)
 
 ---
 
 ![.github/workflows/build.yml](https://github.com/kiriakosv/kiriakosv/workflows/.github/workflows/build.yml/badge.svg)
 
-Generated at `Mon Nov  1 00:42:01 2021 +0200`
+Generated at `Tue Nov  2 00:41:15 2021 +0200`
