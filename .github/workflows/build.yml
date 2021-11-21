@@ -21,9 +21,4 @@ jobs:
           GOODREADS_SECRET_KEY: ${{ secrets.GOODREADS_SECRET_KEY }}
           GOODREADS_USER_ID: ${{ secrets.GOODREADS_USER_ID }}
       - name: Commit and push
-        run: |-
-          git config --global user.name "The Bot"
-          git config --global user.email "the-bot@example.com"
-          git add .
-          git commit -am "Update content" || exit 0
-          git push
+        run: ./entry.sh
