@@ -17,7 +17,7 @@ end
 
 bio = File.read('sections/bio.md')
 
-File.open('README.md', 'w') do |f|
+File.open('temp.md', 'w') do |f|
   f.puts bio
   f.puts "\n"
   f.puts books
@@ -26,5 +26,17 @@ File.open('README.md', 'w') do |f|
   f.puts "\n"
   f.puts '![.github/workflows/build.yml](https://github.com/kiriakosv/kiriakosv/workflows/.github/workflows/build.yml/badge.svg)'
   f.puts "\n"
-  f.puts "Generated at `#{Time.now.utc.localtime('+02:00').strftime('%c %z')}`"
+end
+
+current_data = File.read('README.md').split("\n")[0...-2]
+new_data = File.read('temp.md').split("\n")
+
+if current_data != new_data
+  FileUtils.copy('temp.md', 'README.md')
+
+  File.open('README.md', 'a') do |f|
+    f.puts "Generated at `#{Time.now.utc.localtime('+02:00').strftime('%c %z')}`"
+  end
+
+  FileUtils.rm('temp.md')
 end
