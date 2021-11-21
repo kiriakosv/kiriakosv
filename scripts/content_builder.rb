@@ -37,6 +37,6 @@ if current_data != new_data
   File.open('README.md', 'a') do |f|
     f.puts "Generated at `#{Time.now.utc.localtime('+02:00').strftime('%c %z')}`"
   end
-
-  FileUtils.rm('temp.md')
 end
+
+FileUtils.rm('temp.md')

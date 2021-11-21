@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 if [[ `git status --porcelain` ]]; then
   git config --global user.name "The Bot"
