@@ -9,14 +9,14 @@ I'm Kiriakos Velissariou, software engineer @[Skroutz](https://www.skroutz.gr) d
 📫 You can drop me a word at [me@kiriakosv.xyz](mailto:me@kiriakosv.xyz).
 
 I love reading 📚. Some of my latest readings from Goodreads are:
+* [The Cuckoo's Calling (Cormoran Strike, #1)](https://www.goodreads.com/book/show/16160797-the-cuckoo-s-calling)
 * [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.goodreads.com/book/show/42603095-atomic-habits)
 * [The Road](https://www.goodreads.com/book/show/5325066-the-road)
 * [Docker for Rails Developers: Build, Ship, and Run Your Applications Everywhere](https://www.goodreads.com/book/show/46249262-docker-for-rails-developers)
 * [Η συχνότητα του φόνου (Ακοή , #2)](https://www.goodreads.com/book/show/56576642)
-* [Where Good Ideas Come from: The Natural History of Innovation](https://www.goodreads.com/book/show/8034188-where-good-ideas-come-from)
 
 ---
 
 ![.github/workflows/build.yml](https://github.com/kiriakosv/kiriakosv/workflows/.github/workflows/build.yml/badge.svg)
 
-Generated at `Sun Nov 21 21:56:57 2021 +0200`
+Generated at `Sat Dec 18 12:46:19 2021 +0200`
