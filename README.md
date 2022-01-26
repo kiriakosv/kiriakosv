@@ -10,13 +10,13 @@ I'm Kiriakos Velissariou, software engineer @[Skroutz](https://www.skroutz.gr) d
 
 I love reading 📚. Some of my latest readings from Goodreads are:
 * [The Cuckoo's Calling (Cormoran Strike, #1)](https://www.goodreads.com/book/show/16160797-the-cuckoo-s-calling)
+* [Elder Race](https://www.goodreads.com/book/show/56815367-elder-race)
 * [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.goodreads.com/book/show/42603095-atomic-habits)
 * [The Road](https://www.goodreads.com/book/show/5325066-the-road)
 * [Docker for Rails Developers: Build, Ship, and Run Your Applications Everywhere](https://www.goodreads.com/book/show/46249262-docker-for-rails-developers)
-* [Η συχνότητα του φόνου (Ακοή , #2)](https://www.goodreads.com/book/show/56576642)
 
 ---
 
 ![.github/workflows/build.yml](https://github.com/kiriakosv/kiriakosv/workflows/.github/workflows/build.yml/badge.svg)
 
-Generated at `Sat Dec 18 12:46:19 2021 +0200`
+Generated at `Thu Jan 27 00:40:05 2022 +0200`
