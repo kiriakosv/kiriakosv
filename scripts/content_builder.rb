@@ -7,7 +7,7 @@ def books
   )
 
   intro = "I love reading 📚. Some of my latest readings from Goodreads are:\n"
-  books = client.shelf(ENV['GOODREADS_USER_ID'], 'read').books.first(5)
+  books = client.shelf(ENV['GOODREADS_USER_ID'], 'read').books.first(8)
                 .map { |r| [r.book.title, r.book.link] }
                 .map { |b| "* [#{b[0]}](#{b[1]})" }
                 .join("\n")
