@@ -9,6 +9,7 @@ I'm Kiriakos Velissariou, software engineer @[Skroutz](https://www.skroutz.gr) d
 📫 You can drop me a word at [me@kiriakosv.xyz](mailto:me@kiriakosv.xyz).
 
 I love reading 📚. Some of my latest readings from Goodreads are:
+* [The Bogleheads' Guide to Investing](https://www.goodreads.com/book/show/22847559-the-bogleheads-guide-to-investing)
 * [A Philosophy of Software Design](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design)
 * [The Little Book of Common Sense Investing: The Only Way to Guarantee Your Fair Share of Stock Market Returns (Little Books. Big Profits)](https://www.goodreads.com/book/show/36336614-the-little-book-of-common-sense-investing)
 * [The Millionaire Next Door (Millionaire Set Book 2)](https://www.goodreads.com/book/show/50926504-the-millionaire-next-door)
@@ -16,10 +17,9 @@ I love reading 📚. Some of my latest readings from Goodreads are:
 * [Elder Race](https://www.goodreads.com/book/show/56815367-elder-race)
 * [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.goodreads.com/book/show/42603095-atomic-habits)
 * [The Road](https://www.goodreads.com/book/show/5325066-the-road)
-* [Docker for Rails Developers: Build, Ship, and Run Your Applications Everywhere](https://www.goodreads.com/book/show/46249262-docker-for-rails-developers)
 
 ---
 
 ![.github/workflows/build.yml](https://github.com/kiriakosv/kiriakosv/workflows/.github/workflows/build.yml/badge.svg)
 
-Generated at `Wed Feb 16 00:40:38 2022 +0200`
+Generated at `Sat Apr  2 09:42:54 2022 +0200`
