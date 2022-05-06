@@ -9,6 +9,7 @@ I'm Kiriakos Velissariou, software engineer @[Skroutz](https://www.skroutz.gr) d
 📫 You can drop me a word at [me@kiriakosv.xyz](mailto:me@kiriakosv.xyz).
 
 I love reading 📚. Some of my latest readings from Goodreads are:
+* [High Output Management](https://www.goodreads.com/book/show/27140043-high-output-management)
 * [The Remains of the Day](https://www.goodreads.com/book/show/57934597-the-remains-of-the-day)
 * [The Bogleheads' Guide to Investing](https://www.goodreads.com/book/show/22847559-the-bogleheads-guide-to-investing)
 * [A Philosophy of Software Design](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design)
@@ -16,10 +17,9 @@ I love reading 📚. Some of my latest readings from Goodreads are:
 * [The Millionaire Next Door (Millionaire Set Book 2)](https://www.goodreads.com/book/show/50926504-the-millionaire-next-door)
 * [The Cuckoo's Calling (Cormoran Strike, #1)](https://www.goodreads.com/book/show/16160797-the-cuckoo-s-calling)
 * [Elder Race](https://www.goodreads.com/book/show/56815367-elder-race)
-* [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.goodreads.com/book/show/42603095-atomic-habits)
 
 ---
 
 ![.github/workflows/build.yml](https://github.com/kiriakosv/kiriakosv/workflows/.github/workflows/build.yml/badge.svg)
 
-Generated at `Sun Apr  3 00:38:29 2022 +0200`
+Generated at `Sat May  7 00:39:13 2022 +0200`
