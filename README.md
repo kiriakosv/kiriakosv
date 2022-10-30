@@ -9,6 +9,7 @@ I'm Kiriakos Velissariou, software engineer @[Skroutz](https://www.skroutz.gr) d
 📫 You can drop me a word at [me@kiriakosv.xyz](mailto:me@kiriakosv.xyz).
 
 I love reading 📚. Some of my latest readings from Goodreads are:
+* [Utopia for Realists: And How We Can Get There](https://www.goodreads.com/book/show/33652563-utopia-for-realists)
 * [Astrophysics for People in a Hurry](https://www.goodreads.com/book/show/32191710-astrophysics-for-people-in-a-hurry)
 * [Κώδικες και μυστικά](https://www.goodreads.com/book/show/12278526)
 * [Arguing with Zombies: Economics, Politics, and the Fight for a Better Future](https://www.goodreads.com/book/show/45894180-arguing-with-zombies)
@@ -16,10 +17,9 @@ I love reading 📚. Some of my latest readings from Goodreads are:
 * [High Output Management](https://www.goodreads.com/book/show/27140043-high-output-management)
 * [Range: Why Generalists Triumph in a Specialized World](https://www.goodreads.com/book/show/44000528-range)
 * [The Myth of the Rational Voter: Why Democracies Choose Bad Policies](https://www.goodreads.com/book/show/698866.The_Myth_of_the_Rational_Voter)
-* [The Remains of the Day](https://www.goodreads.com/book/show/57934597-the-remains-of-the-day)
 
 ---
 
 ![.github/workflows/build.yml](https://github.com/kiriakosv/kiriakosv/workflows/.github/workflows/build.yml/badge.svg)
 
-Generated at `Tue Oct  4 00:43:22 2022 +0200`
+Generated at `Mon Oct 31 00:39:44 2022 +0200`
