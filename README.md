@@ -16,10 +16,10 @@ I love reading 📚. Some of my latest readings from Goodreads are:
 * [The Rust Programming Language](https://www.goodreads.com/book/show/25008661-the-rust-programming-language)
 * [High Output Management](https://www.goodreads.com/book/show/27140043-high-output-management)
 * [Range: Why Generalists Triumph in a Specialized World](https://www.goodreads.com/book/show/44000528-range)
-* [The Myth of the Rational Voter: Why Democracies Choose Bad Policies](https://www.goodreads.com/book/show/698866.The_Myth_of_the_Rational_Voter)
+* [No Rules Rules: Netflix and the Culture of Reinvention](https://www.goodreads.com/book/show/49099937-no-rules-rules)
 
 ---
 
 ![.github/workflows/build.yml](https://github.com/kiriakosv/kiriakosv/workflows/.github/workflows/build.yml/badge.svg)
 
-Generated at `Mon Oct 31 00:39:44 2022 +0200`
+Generated at `Tue Nov 29 00:38:28 2022 +0200`
