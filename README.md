@@ -9,6 +9,7 @@ I'm Kiriakos Velissariou, software engineer @[Skroutz](https://www.skroutz.gr) d
 📫 You can drop me a word at [me@kiriakosv.xyz](mailto:me@kiriakosv.xyz).
 
 I love reading 📚. Some of my latest readings from Goodreads are:
+* [Το κάλεσμα των τριών (Ο μαύρος πύργος, #2)](https://www.goodreads.com/book/show/16136421)
 * [Born to Drum: The Truth About the World's Greatest Drummers--from John Bonham and Keith Moon to Sheila E. and Dave Grohl](https://www.goodreads.com/book/show/25816953-born-to-drum)
 * [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.goodreads.com/book/show/16158601-turn-the-ship-around)
 * [How to Live: 27 conflicting answers and one weird conclusion](https://www.goodreads.com/book/show/60843571-how-to-live)
@@ -16,10 +17,9 @@ I love reading 📚. Some of my latest readings from Goodreads are:
 * [Καρμανιόλα (Drifter #2)](https://www.goodreads.com/book/show/57805177)
 * [Utopia for Realists: And How We Can Get There](https://www.goodreads.com/book/show/33652563-utopia-for-realists)
 * [Astrophysics for People in a Hurry](https://www.goodreads.com/book/show/32191710-astrophysics-for-people-in-a-hurry)
-* [Κώδικες και μυστικά](https://www.goodreads.com/book/show/12278526)
 
 ---
 
 ![.github/workflows/build.yml](https://github.com/kiriakosv/kiriakosv/workflows/.github/workflows/build.yml/badge.svg)
 
-Generated at `Mon Jul 24 00:37:45 2023 +0200`
+Generated at `Fri Aug 11 00:38:13 2023 +0200`
