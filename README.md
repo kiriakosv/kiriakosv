@@ -11,15 +11,15 @@ I'm Kiriakos Velissariou, software engineer @[Skroutz](https://www.skroutz.gr) d
 I love reading 📚. Some of my latest readings from Goodreads are:
 * [Το κάλεσμα των τριών (Ο μαύρος πύργος, #2)](https://www.goodreads.com/book/show/16136421)
 * [Born to Drum: The Truth About the World's Greatest Drummers--from John Bonham and Keith Moon to Sheila E. and Dave Grohl](https://www.goodreads.com/book/show/25816953-born-to-drum)
+* [Punished by Rewards: The Trouble with Gold Stars, Incentive Plans, A's, Praise and Other Bribes](https://www.goodreads.com/book/show/541132.Punished_by_Rewards)
 * [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.goodreads.com/book/show/16158601-turn-the-ship-around)
 * [How to Live: 27 conflicting answers and one weird conclusion](https://www.goodreads.com/book/show/60843571-how-to-live)
 * [Artificial Intelligence: A Guide for Thinking Humans](https://www.goodreads.com/book/show/43565360-artificial-intelligence)
 * [Καρμανιόλα (Drifter #2)](https://www.goodreads.com/book/show/57805177)
 * [Utopia for Realists: And How We Can Get There](https://www.goodreads.com/book/show/33652563-utopia-for-realists)
-* [Astrophysics for People in a Hurry](https://www.goodreads.com/book/show/32191710-astrophysics-for-people-in-a-hurry)
 
 ---
 
 ![.github/workflows/build.yml](https://github.com/kiriakosv/kiriakosv/workflows/.github/workflows/build.yml/badge.svg)
 
-Generated at `Fri Aug 11 00:38:13 2023 +0200`
+Generated at `Sun Aug 13 00:38:07 2023 +0200`
