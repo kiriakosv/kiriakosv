@@ -8,7 +8,7 @@ I'm Kiriakos Velissariou, software engineer @[Skroutz](https://www.skroutz.gr) d
 
 📫 You can drop me a word at [me@kiriakosv.xyz](mailto:me@kiriakosv.xyz).
 
-I love reading 📚. Some of my latest readings from Goodreads are:
+I love reading 📚. Some of my latest readings are:
 * [Sustainable Web Development with Ruby on Rails: Practical Tips for Building Web Applications that Last](https://www.goodreads.com/book/show/56340995-sustainable-web-development-with-ruby-on-rails)
 * [Το κάλεσμα των τριών (Ο μαύρος πύργος, #2)](https://www.goodreads.com/book/show/16136421)
 * [Born to Drum: The Truth About the World's Greatest Drummers--from John Bonham and Keith Moon to Sheila E. and Dave Grohl](https://www.goodreads.com/book/show/25816953-born-to-drum)
@@ -22,4 +22,4 @@ I love reading 📚. Some of my latest readings from Goodreads are:
 
 ![.github/workflows/build.yml](https://github.com/kiriakosv/kiriakosv/workflows/.github/workflows/build.yml/badge.svg)
 
-Generated at `Sat Sep 30 00:37:52 2023 +0200`
+Generated at `Sat Oct 28 16:44:06 2023 +0200`
