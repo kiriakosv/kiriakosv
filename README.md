@@ -6,7 +6,7 @@
 
 I'm Kiriakos Velissariou, software engineer @[Skroutz](https://www.skroutz.gr) doing all things payments 💰.
 
-📫 You can drop me a word at [me@kiriakosv.xyz](mailto:me@kiriakosv.xyz).
+📫 You can drop me a word at [kiriakos@hey.com](mailto:kiriakos@hey.com).
 
 I love reading 📚. Some of my latest readings are:
 * [The Comfort Crisis: Embrace Discomfort To Reclaim Your Wild, Happy, Healthy Self](https://www.goodreads.com/book/show/55120630-the-comfort-crisis)
@@ -22,4 +22,4 @@ I love reading 📚. Some of my latest readings are:
 
 ![.github/workflows/build.yml](https://github.com/kiriakosv/kiriakosv/workflows/.github/workflows/build.yml/badge.svg)
 
-Generated at `Thu Dec 14 00:37:51 2023 +0200`
+Generated at `Sun Dec 31 15:07:32 2023 +0200`
