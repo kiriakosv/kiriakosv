@@ -9,6 +9,7 @@ I'm Kiriakos Velissariou, software engineer @[Skroutz](https://www.skroutz.gr) d
 📫 You can drop me a word at [kiriakos@hey.com](mailto:kiriakos@hey.com).
 
 I love reading 📚. Take a look at some of my latest readings:
+* [Επιβάτης 23](https://www.goodreads.com/book/show/199149155-23)
 * [Το τελεσίγραφο](https://www.goodreads.com/book/show/128228334)
 * [The Comfort Crisis: Embrace Discomfort To Reclaim Your Wild, Happy, Healthy Self](https://www.goodreads.com/book/show/55120630-the-comfort-crisis)
 * [Freakonomics: A Rogue Economist Explores the Hidden Side of Everything](https://www.goodreads.com/book/show/1202.Freakonomics)
@@ -16,10 +17,9 @@ I love reading 📚. Take a look at some of my latest readings:
 * [Το κάλεσμα των τριών (Ο μαύρος πύργος, #2)](https://www.goodreads.com/book/show/16136421)
 * [Born to Drum: The Truth About the World's Greatest Drummers--from John Bonham and Keith Moon to Sheila E. and Dave Grohl](https://www.goodreads.com/book/show/25816953-born-to-drum)
 * [Punished by Rewards: The Trouble with Gold Stars, Incentive Plans, A's, Praise and Other Bribes](https://www.goodreads.com/book/show/541132.Punished_by_Rewards)
-* [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.goodreads.com/book/show/16158601-turn-the-ship-around)
 
 ---
 
 ![.github/workflows/build.yml](https://github.com/kiriakosv/kiriakosv/workflows/.github/workflows/build.yml/badge.svg)
 
-Generated at `Sat Jan  6 17:31:07 2024 +0200`
+Generated at `Sat Mar 16 00:37:52 2024 +0200`
