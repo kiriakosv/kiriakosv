@@ -10,16 +10,16 @@ I'm Kiriakos Velissariou, software engineer @[Skroutz](https://www.skroutz.gr) d
 
 I love reading 📚. Take a look at some of my latest readings:
 * [Επιβάτης 23](https://www.goodreads.com/book/show/199149155-23)
+* [Poor Charlie’s Almanack: The Essential Wit and Wisdom of Charles T. Munger](https://www.goodreads.com/book/show/157686100-poor-charlie-s-almanack)
 * [Το τελεσίγραφο](https://www.goodreads.com/book/show/128228334)
 * [The Comfort Crisis: Embrace Discomfort To Reclaim Your Wild, Happy, Healthy Self](https://www.goodreads.com/book/show/55120630-the-comfort-crisis)
 * [Freakonomics: A Rogue Economist Explores the Hidden Side of Everything](https://www.goodreads.com/book/show/1202.Freakonomics)
 * [Sustainable Web Development with Ruby on Rails: Practical Tips for Building Web Applications that Last](https://www.goodreads.com/book/show/56340995-sustainable-web-development-with-ruby-on-rails)
 * [Το κάλεσμα των τριών (Ο μαύρος πύργος, #2)](https://www.goodreads.com/book/show/16136421)
 * [Born to Drum: The Truth About the World's Greatest Drummers--from John Bonham and Keith Moon to Sheila E. and Dave Grohl](https://www.goodreads.com/book/show/25816953-born-to-drum)
-* [Punished by Rewards: The Trouble with Gold Stars, Incentive Plans, A's, Praise and Other Bribes](https://www.goodreads.com/book/show/541132.Punished_by_Rewards)
 
 ---
 
 ![.github/workflows/build.yml](https://github.com/kiriakosv/kiriakosv/workflows/.github/workflows/build.yml/badge.svg)
 
-Generated at `Sat Mar 16 00:37:52 2024 +0200`
+Generated at `Wed Apr  3 00:37:42 2024 +0200`
