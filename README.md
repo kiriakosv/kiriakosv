@@ -9,6 +9,7 @@ I'm Kiriakos Velissariou, software engineer @[Skroutz](https://www.skroutz.gr) d
 📫 You can drop me a word at [kiriakos@hey.com](mailto:kiriakos@hey.com).
 
 I love reading 📚. Take a look at some of my latest readings:
+* [Effective Practicing For Musicians](https://www.goodreads.com/book/show/56515701-effective-practicing-for-musicians)
 * [Alchemy: The Surprising Power of Ideas That Don't Make Sense](https://www.goodreads.com/book/show/39946092-alchemy)
 * [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/book/show/32486539-algorithms-to-live-by)
 * [The Balkans: From the End of Byzantium Until the Present Day](https://www.goodreads.com/book/show/18333327-the-balkans)
@@ -16,10 +17,9 @@ I love reading 📚. Take a look at some of my latest readings:
 * [Επιβάτης 23](https://www.goodreads.com/book/show/199149155-23)
 * [Poor Charlie’s Almanack: The Essential Wit and Wisdom of Charles T. Munger](https://www.goodreads.com/book/show/157686100-poor-charlie-s-almanack)
 * [Το τελεσίγραφο](https://www.goodreads.com/book/show/128228334)
-* [The Comfort Crisis: Embrace Discomfort To Reclaim Your Wild, Happy, Healthy Self](https://www.goodreads.com/book/show/55120630-the-comfort-crisis)
 
 ---
 
 ![.github/workflows/build.yml](https://github.com/kiriakosv/kiriakosv/workflows/.github/workflows/build.yml/badge.svg)
 
-Generated at `Fri Sep 27 10:45:25 2024 +0200`
+Generated at `Mon Nov 11 00:39:31 2024 +0200`
