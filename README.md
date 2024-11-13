@@ -6,7 +6,7 @@
 
 I'm Kiriakos Velissariou, software engineer @[Skroutz](https://www.skroutz.gr) doing all things payments 💰.
 
-📫 You can drop me a word at [kiriakos@hey.com](mailto:kiriakos@hey.com).
+📫 You can drop me a word at [me@kiriakosv.xyz](mailto:me@kiriakosv.xyz).
 
 I love reading 📚. Take a look at some of my latest readings:
 * [Effective Practicing For Musicians](https://www.goodreads.com/book/show/56515701-effective-practicing-for-musicians)
@@ -22,4 +22,4 @@ I love reading 📚. Take a look at some of my latest readings:
 
 ![.github/workflows/build.yml](https://github.com/kiriakosv/kiriakosv/workflows/.github/workflows/build.yml/badge.svg)
 
-Generated at `Mon Nov 11 00:39:31 2024 +0200`
+Generated at `Wed Nov 13 09:52:48 2024 +0200`
