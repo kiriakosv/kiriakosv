@@ -6,4 +6,4 @@
 
 I'm Kiriakos Velissariou, software engineer @[Skroutz](https://www.skroutz.gr) doing all things payments 💰.
 
-📫 You can drop me a word at [me@kiriakosv.xyz](mailto:me@kiriakosv.xyz).
+📫 You can drop me a word at [kiriakos@hey.com](mailto:kiriakos@hey.com).
